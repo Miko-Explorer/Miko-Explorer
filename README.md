@@ -23,8 +23,7 @@
 
 ### 📌 About Me
 - Currently a 3rd‑year at the **University of Santo Tomas**, pursuing a degree in **Bachelor of Science in Data Science and Analytics**.
-- Creates data driven solutions and actions derived from interactive dashboards.
-- Creates meaning and insights out of data using MySQL and Excel.
+- **Hobbies:** Gaming, Wacthing Anime Series & Movies, and Volleyball. 
 - **Future career goals:** Finance Analyst, Business Analyst, Data Analyst.
 - **Focus Areas:** Data Analytics, Dashboard Development, SQL & Spreadsheet Modeling.
 
@@ -41,7 +40,7 @@
 ### 💼 What I Do
 - Create data-driven solutions and actions derived from interactive and significant dashboards.
 - Convert data into meaningful insights using MySQL and Excel to make smarter, data-driven decisions.
-- Upskill via creating portfolio and academic based projects & learning new skills and techniques being introduced in the field of DSA.
+- Upskill via creating portfolio and academic based projects & learning new/current skills and techniques being introduced in the field of DSA.
 
 ---
 
