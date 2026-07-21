@@ -23,7 +23,7 @@
 
 ### 📌 About Me
 - Currently a 3rd‑year at the **University of Santo Tomas**, pursuing a degree in **Bachelor of Science in Data Science and Analytics**.
-- **Hobbies:** Gaming, Wacthing Anime Series & Movies, and Volleyball. 
+- **Hobbies:** Gaming, Watching Anime Series & Movies, and Volleyball. 
 - **Future career goals:** Finance Analyst, Business Analyst, Data Analyst.
 - **Focus Areas:** Data Analytics, Dashboard Development, SQL & Spreadsheet Modeling.
 
