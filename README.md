@@ -6,9 +6,14 @@
   <h1 style="color: #ffffff; margin: 0;">Hi 👋, I'm Miko</h1>
   <h3 style="color: #93c5fd; margin: 5px 0 10px 0;">Data Science & Analytics Student @ 🐯UST🐯</h3>
   <p style="margin: 0;">
-    <img src="https://img.shields.io/badge/Time-14%3A39%20(UTC%2B8)-green?style=flat-square" alt="Time"/>
     <a href="https://www.linkedin.com/in/enrico-miguel-veloso" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/enricomiguel.veloso" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://www.instagram.com/mikomallows" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
 </div>
@@ -16,16 +21,16 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ **DSA Student** (3rd Year)
-- ⭐ **Current GWA:** 1.609 (Dean's Lister)
+- **DSA Student** (3rd Year)
+- **Current GWA:** 1.609 (Dean's Lister)
 
 ---
 
 ### 📌 About Me
-- Currently a 3rd‑year at the **University of Santo Tomas**, pursuing a degree in **Bachelor of Science in Data Science and Analytics**.
-- **Hobbies:** Gaming, Watching Anime Series & Movies, and Volleyball. 
-- **Future career goals:** Finance Analyst, Business Analyst, Data Analyst.
-- **Focus Areas:** Data Analytics, Dashboard Development, SQL & Spreadsheet Modeling.
+- **Role:** Currenlty a 3rd-year college student at UST.
+- **Education:** Currently taking Bachelor of Science in Data Science & Analytics at the University of Santo Tomas. 
+- **Focus Areas:** Data Analytics, Dashboard Development, SQL, Spreadsheet Modeling, Machine Learning.
+- **Currently Interested In:** Interactive dashboards, AI tools, Automated workflows, and SQL. 
 
 ---
 
@@ -38,9 +43,10 @@
 ---
 
 ### 💼 What I Do
-- Create data-driven solutions and actions derived from interactive and significant dashboards.
-- Convert data into meaningful insights using MySQL and Excel to make smarter, data-driven decisions.
-- Upskill via creating portfolio and academic based projects & learning new skills and techniques being introduced in the field of DSA.
+- Create basic to intermediate level static and interactive dashboards using Power BI.
+- Perform basic to intermediate level data preprocesing and EDA.
+- Generate meaningful reports and insights using basic to intermediate level MySQL and Excel skills.
+- Create common or basic machine learning models varying from predictive, classification, and clustering models.
 
 ---
 
