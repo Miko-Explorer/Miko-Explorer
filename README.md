@@ -6,14 +6,14 @@
   <h1 style="color: #ffffff; margin: 0;">Hi 👋, I'm Miko</h1>
   <h3 style="color: #93c5fd; margin: 5px 0 10px 0;">Data Science & Analytics Student @ 🐯UST🐯</h3>
   <p style="margin: 0;">
-    <a href="https://www.linkedin.com/in/enrico-miguel-veloso" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
-    </a>
     <a href="https://www.facebook.com/enricomiguel.veloso" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
     <a href="https://www.instagram.com/mikomallows" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/enrico-miguel-veloso" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/>
     </a>
   </p>
 </div>
