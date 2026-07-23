@@ -27,7 +27,7 @@
 ---
 
 ### 📌 About Me
-- **Role:** Currenlty a 3rd-year college student at UST.
+- **Role:** Currenlty a 3rd-year college student.
 - **Education:** Currently taking Bachelor of Science in Data Science & Analytics at the University of Santo Tomas. 
 - **Focus Areas:** Data Analytics, Dashboard Development, SQL, Spreadsheet Modeling, Machine Learning.
 - **Currently Interested In:** Interactive dashboards, AI tools, Automated workflows, and SQL. 
@@ -43,10 +43,10 @@
 ---
 
 ### 💼 What I Do
-- Create basic to intermediate level static and interactive dashboards using Power BI.
-- Perform basic to intermediate level data preprocesing and EDA.
-- Generate meaningful reports and insights using basic to intermediate level MySQL and Excel skills.
-- Create common or basic machine learning models varying from predictive, classification, and clustering models.
+- Design and develop static and interactive dashboards at a basic to intermediate level using Power BI.
+- Conduct basic to intermediate data preprocessing and exploratory data analysis (EDA).
+- Generate actionable reports and insights using intermediate-level MySQL and Excel skills.
+- Build fundamental machine learning models, including predictive, classification, and clustering models.
 
 ---
 
