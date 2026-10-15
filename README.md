@@ -22,7 +22,7 @@
 
 ### 🏆 Achievements
 - **DSA Student** (3rd Year)
-- **Current GWA:** 1.609 (Dean's Lister)
+- **Cumulative GWA:** 1.623 (Dean's Lister)
 
 ---
 
